@@ -1,5 +1,5 @@
 # kittensfriends
-A tutorial project to learn React.
+A responsive app that consumes some data from two different APIs and display it in a beautiful interface made with React.
 
 ## To run the app
 
